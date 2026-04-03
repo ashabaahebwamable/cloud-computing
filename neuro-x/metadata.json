@@ -1,0 +1,5 @@
+{
+  "name": "neuro x",
+  "description": "A clinically realistic hospital workflow platform for automated peripheral nerve segmentation in musculoskeletal ultrasound imagery using ResUNet architecture.",
+  "requestFramePermissions": []
+}
